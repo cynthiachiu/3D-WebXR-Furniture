@@ -51,6 +51,10 @@ Use augmented reality (AR) to pick and place a selection of furniture models int
 
 View the live demo on your mobile at: https://cynthia-3d-webxr-furniture-placement.netlify.app/
 
+
+https://github.com/cynthiachiu/3D-WebXR-Furniture/assets/20048911/9340db31-3451-47ac-adba-51230ca6abd3
+
+
 ## :checkered_flag: Starting
 
 1. Using your phone, go to the live website at: https://cynthia-3d-webxr-furniture-placement.netlify.app/
